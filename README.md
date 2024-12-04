@@ -2,7 +2,7 @@
 
 
 🔭 Atualmente contribuindo no repositorio: 
-[![Acessar REpositorio ](https://img.shields.io/badge/-Acessar%20Repositorio-white)]([https://github.com/Hei-Lima/exercicioslogic](https://github.com/RafaelPerovano/Loja_gustavo_2.0))
+[![Acessar Repositorio](https://img.shields.io/badge/-Acessar%20Repositorio-white)](https://github.com/RafaelPerovano/Loja_gustavo_2.0)
 
 ## Minhas Skills
 
