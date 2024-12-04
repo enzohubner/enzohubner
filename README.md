@@ -2,30 +2,24 @@
 
 
 🔭 Atualmente contribuindo no repositorio: 
-[![Acessar Exercícios de Lógica](https://img.shields.io/badge/-Acessar%20Repositorio-white)](https://github.com/Hei-Lima/exercicioslogica)
+[![Acessar REpositorio ](https://img.shields.io/badge/-Acessar%20Repositorio-white)]([https://github.com/Hei-Lima/exercicioslogic](https://github.com/RafaelPerovano/Loja_gustavo_2.0))
 
 ## Minhas Skills
 
-**Aplicações e dados**
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+<p align="center">
+  <h3> Aplicações e dados: </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flask,java,php,c,html,css,javascript,mysql,postgres"/>
+  </a>
+</p>
 
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+<p align="center">
+  <h3> DevOps: </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
 
 ### ⚙️ GitHub Analytics
 
@@ -45,20 +39,12 @@
         alt="Github Stats"
       />
     </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=enzohubner&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
   </tr>
 </table>
 
 --- 
 
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍 Contador de Visitas</b></h3>
 </div>
 
 <p align="center">
