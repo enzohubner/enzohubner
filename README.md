@@ -10,7 +10,7 @@
 <p align="center">
   <h3> Aplicações e dados: </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,java,php,c,html,css,javascript,mysql,postgres"/>
+    <img src="https://skillicons.dev/icons?i=python,flask,java,php,c,html,css,javascript,mysql,postgres,flutter"/>
   </a>
 </p>
 
